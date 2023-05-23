@@ -5,7 +5,7 @@ I'm Stvya Sharma, an iOS and Android App Developer.
 ## About Me
 
 - 🔭 I’m currently working on developing iOS and Android apps.
-- 🌱 I have made nine iOS games that are available on the app store under the developer name “Kusum Sharma.”
+- 🌱 I have made nine iOS games that are available on the app store.
 - 👯 Most of my games are created using Spritekit and UIKit.
 - 📫 How to reach me: [stvya.com](https://stvya.com/)
 
