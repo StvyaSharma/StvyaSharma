@@ -32,9 +32,6 @@ I'm Stvya Sharma, an iOS and Android App Developer.
 ### Android Apps
 - Simply-A-Calculator: A simple calculator app that can only perform simple arithmetic operations.
 
-## Awards
-- WWDC 2021 Swift Student Challenge Winner
-
 ## Contact Me
 
 [stvya.com](https://stvya.com/)
